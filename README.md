@@ -20,10 +20,7 @@ I. Connect the multimeter at the output of kit..
 5. Plot the graph between displacement and voltages on the graph paper.
 
 OBSERVATION TABLE:
-![WhatsApp Image 2026-03-21 at 10 54 26 AM](https://github.com/user-attachments/assets/da76b278-e947-4578-b795-fc49b26942e0)
 
-MODEL GRAPH:
-<img width="949" height="1280" alt="image" src="https://github.com/user-attachments/assets/ba2a9a01-8d91-47c0-b00b-ea91031cfa91" />
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
 2. The core should be set to a maximum value of 20mm.
